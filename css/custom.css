@@ -78,3 +78,8 @@
     width: 100px !important;
     margin: 0 auto;
 }
+
+.reset-img {
+    height:195px;
+    width: auto !important;
+}
